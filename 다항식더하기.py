@@ -52,4 +52,4 @@ def solution(polynomial):
     return answer
 
 # print(solution("3x + 7 + x"))
-print(solution("x + x + x"))
+print(solution("x + x + 9x"))
